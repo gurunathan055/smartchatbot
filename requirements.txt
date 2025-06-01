@@ -1,0 +1,8 @@
+botbuilder-core
+botbuilder-integration-aiohttp
+azure-ai-language-conversations
+aiohttp
+asyncio
+python-dotenv
+snowflake-connector-python
+pytz

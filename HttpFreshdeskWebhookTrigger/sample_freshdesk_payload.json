@@ -1,0 +1,12 @@
+{
+  "ticket_id": 789,
+  "message_id": "msg_abc123xyz",
+  "conversation_id": "conv_789_def456",
+  "message_sender_id": "fd_user_54321",
+  "message_sender_email": "customer@example.com",
+  "message_sender_name": "Jane Doe",
+  "message_text": "Hello, I need an update on my order please. Any news?",
+  "ticket_subject": "Inquiry about Order #XYZ123",
+  "created_at": "2023-10-27T10:30:00Z",
+  "channel": "email"
+}
